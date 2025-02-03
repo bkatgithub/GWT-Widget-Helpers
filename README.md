@@ -1,7 +1,7 @@
 # GWT-Widget-Helpers
 
 The following code sample shows how the GWT Widget Helper classes can be used
-to create a login page.
+to create a login page using declarative format.
 
 ```Java
 public class GWTProject implements EntryPoint, ButtonClickHandler {
