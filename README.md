@@ -47,4 +47,5 @@ public class GWTProject implements EntryPoint, ButtonClickHandler {
 	public void buttonClicked(int requestCode, String buttonData) {
 		// Callback when Login button is clicked
 	}
+}
  ```
